@@ -29,3 +29,4 @@ function calculateTotal(){
     document.getElementById('grand-total').innerText = '$' + grandTotal;
 }
 
+
